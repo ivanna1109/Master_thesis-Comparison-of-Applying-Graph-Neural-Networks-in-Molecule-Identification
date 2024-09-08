@@ -12,6 +12,7 @@ In this work, molecules are represented as graphs, where atoms correspond to nod
 ## Models
 Various GNN architectures have been explored, including:
 - **Graph Convolutional Networks (GCN)**
+- **GraphSAGE (Graph Sample and Agregation)**
 - **Graph Attention Networks (GAT)**
 - **Graph Isomorphism Networks (GIN)**
 Each model is designed to capture different aspects of molecular structure, and their performance is evaluated based on their ability to accurately predict molecular activity.
